@@ -8,31 +8,27 @@ body{
 
 .container {
   padding-top: 40px;
+  margin: 0 auto;
 }
 .home{
-
+  animation: fade-down;
 }
 
 .photo {
   padding: 40px;
-  background-color:##F9E79F;
   height:10%;
   width:10%;
   border-radius:100%;
   box-shadow:0px 5px 10px rgba(0,0,0,.3);
 }
 
-.socialIcons{
-  height, width: 50px;
-}
-
-.animated {
-    animation: fade-in-down 0.6s;
+.fade-down {
+    animation: 0.6s;
     animation-delay: 0.3s;
     animation-fill-mode: both;
 }
 
-@@keyframes animated{
+@@keyframes fade-down{
 0% {
     opacity: 0;
     transform: translateY(-10px);
