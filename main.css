@@ -7,15 +7,15 @@ body{
 }
 
 .container {
-  padding-top: 40px;
-  margin: 0 auto;
+  margin-left: 50px;
+  margin-right:50px;
+
 }
 .home{
-  animation: fade-down;
+  animation: translate;
 }
 
 .photo {
-  padding: 40px;
   height:10%;
   width:10%;
   border-radius:100%;
@@ -28,7 +28,7 @@ body{
     animation-fill-mode: both;
 }
 
-@@keyframes fade-down{
+@@keyframes translate{
 0% {
     opacity: 0;
     transform: translateY(-10px);
