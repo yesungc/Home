@@ -1,0 +1,88 @@
+# Copy User Stories from the ProductBacklog
+# to the appropriate Sprint below, after the
+# Sprint Planning Meeting.
+
+# Sprint 1 November 25, 2016
+# Sprint 1 Backlog UserStories go below
+
+# Sprint 2 November 28, 2016
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.4
+NAME     : Save Feature (Parsing for circle)
+OWNER    : Yesung C.
+PRIORITY : High
+ESTIMATE : 3
+AS A     : user
+I WANT   : parse the circle
+SO THAT  : I can save my shape circle in text file format
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.5
+NAME     : Save Feature (Parsing for rectangle)
+OWNER    : Salman H.
+PRIORITY : High
+ESTIMATE : 3
+AS A     : user
+I WANT   : parse the rectangle
+SO THAT  : I can save my shape rectangle in text file format
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.6
+NAME     : Save Feature (Parsing for Squiggle)
+OWNER    : Yesung C.
+PRIORITY : High
+ESTIMATE : 3
+AS A     : user
+I WANT   : parse the squiggle
+SO THAT  : I can save shape squiggle in text file format
+IMPL DTL :
+--------------------------------------------------------------------------
+
+
+#Sprint 3 December 3, 2016
+# Sprint 3 Backlog UserStories go below.
+--------------------------------------------------------------------------
+TYPE     : USER STORY 4.1
+NAME     : Exit
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 1 hour
+AS A     : user
+I WANT   : to terminate(exit) my program.
+SO THAT  : I can exit the program.
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.7
+NAME     : Load Feature (Parsing for Squiggle)
+OWNER    : Yesung C.
+PRIORITY : High
+ESTIMATE : 3
+AS A     : user
+I WANT   : parse the squiggle
+SO THAT  : I can load the shape squiggle from text file
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.8
+NAME     : Load Feature (Parsing for Rectangle)
+OWNER    : Salman H.
+PRIORITY : High
+ESTIMATE : 3
+AS A     : user
+I WANT   : parse the rectangle
+SO THAT  : I can load the shape rectangle from text file
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1
+NAME     : Squiggle save doesn't work
+OWNER    : Salman H.
+PRIORITY : High
+ESTIMATE : 3
+ISSUE    : Squiggle doesn't save properly
+--------------------------------------------------------------------------
