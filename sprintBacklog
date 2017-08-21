@@ -2,5 +2,16 @@
 # to the appropriate Sprint below, after the
 # Sprint Planning Meeting.
 
-#Sprint 3 December 3, 2016
-# Sprint 3 Backlog UserStories go below.
+# Monday August 21st, 2017
+#Start of the first sprint
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.5
+NAME     : Basic Center Page
+OWNER    : Yesung
+PRIORITY : High
+ESTIMATE :
+AS A     : viewer
+I WANT   : to see the website in all device appropriate settings
+SO THAT  : I can see that everything is centered and working.
+IMPL DTL :
+--------------------------------------------------------------------------

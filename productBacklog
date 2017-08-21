@@ -5,11 +5,11 @@
 TYPE     : USER STORY 1.1
 NAME     : Websites
 OWNER    : Yesung
-PRIORITY : Not high
-ESTIMATE : >1 hour
+PRIORITY : High
+ESTIMATE : 4 hours
 AS A     : user
-I WANT   : to enter through the website
-SO THAT  : I see the program.
+I WANT   : access the website
+SO THAT  : I see the personal website.
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
@@ -36,7 +36,7 @@ IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 TYPE     : USER STORY 1.4
-NAME     : animation
+NAME     : Animation
 OWNER    : Yesung
 PRIORITY : Medium
 ESTIMATE : 4
@@ -47,14 +47,14 @@ SO THAT  :
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY
-NAME     :
+TYPE     : USER STORY 1.5
+NAME     : Basic Center Page
 OWNER    : Yesung
-PRIORITY :
+PRIORITY : High
 ESTIMATE :
-AS A     : 
-I WANT   :
-SO THAT  :
+AS A     : viewer
+I WANT   : to see the website in all device appropriate settings
+SO THAT  : I can see that everything is centered and working.
 IMPL DTL :
 --------------------------------------------------------------------------
 
