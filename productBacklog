@@ -2,156 +2,61 @@
 # If a USER STORY is large, break it into smaller user stories.
 
 --------------------------------------------------------------------------
-TYPE     : USER STORY 4.1
-NAME     : Exit
+TYPE     : USER STORY 1.1
+NAME     : Websites
+OWNER    : Yesung
+PRIORITY : Not high
+ESTIMATE : >1 hour
+AS A     : user
+I WANT   : to enter through the website
+SO THAT  : I see the program.
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.2
+NAME     : Social Media Buttons
 OWNER    : Yesung
 PRIORITY : Medium
 ESTIMATE : 1 hour
 AS A     : user
-I WANT   : to terminate(exit) my program.
-SO THAT  : I can exit the program.
+I WANT   : to be able to press buttons of social media
+SO THAT  : I can go to specific social media websites
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 3.3
-NAME     : Save Feature (Hot Key)
-OWNER    : Salman H.
-PRIORITY : Medium
-ESTIMATE : 1 hour
-AS A     : user
-I WANT   : to use my hotkeys on my keyboard to be able to save
-SO THAT  : I can save my file.
-IMPL DTL :
---------------------------------------------------------------------------
-
-# COMPLETED USER STORIES/BUGS BELOW ###########################################
---------------------------------------------------------------------------
-TYPE     : USER STORY 4.1
-NAME     : Exit
+TYPE     : USER STORY 1.3
+NAME     : Google Fonts
 OWNER    : Yesung
 PRIORITY : Medium
 ESTIMATE : 1 hour
 AS A     : user
-I WANT   : to terminate(exit) my program.
-SO THAT  : I can exit the program.
+I WANT   : read with better fonts.
+SO THAT  : I can feel comfortable and attracted to the website.
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 3.1
-NAME     : Save Feature
-OWNER    : Both
-PRIORITY : 1
+TYPE     : USER STORY 1.4
+NAME     : animation
+OWNER    : Yesung
+PRIORITY : Medium
 ESTIMATE : 4
 AS A     : user
 I WANT   : a user interface that allows me to specify where to save the
 Paint, then saves all Paint commands to a file.
 SO THAT  :
-IMPL DTL : Implementation details for the save feature:
-
-This amounts to saving the command list to a file according
-to the Paint Save File Format.
-Do this using what you have learned in class about FileIO.
-You can find the format of the save file in the
-Assignment3 project under Assignment3/paintSaveFileFormat.txt.
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 3.4
-NAME     : Save Feature (Parsing for circle)
-OWNER    : Yesung C.
-PRIORITY : High
-ESTIMATE : 3
-AS A     : user
-I WANT   : parse the circle
-SO THAT  : I can save my shape circle in text file format
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 3.6
-NAME     : Save Feature (Parsing for Squiggle)
-OWNER    : Yesung C.
-PRIORITY : High
-ESTIMATE : 3
-AS A     : user
-I WANT   : parse the squiggle
-SO THAT  : I can save shape squiggle in text file format
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 3.5
-NAME     : Save Feature (Parsing for rectangle)
-OWNER    : Salman H.
-PRIORITY : High
-ESTIMATE : 3
-AS A     : user
-I WANT   : parse the rectangle
-SO THAT  : I can save my shape rectangle in text file format
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : BUG 1
-NAME     : Squiggle save doesn't work
-OWNER    : Salman H.
-PRIORITY : High
-ESTIMATE : 3
-ISSUE    : Squiggle doesn't save properly
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 3.2
-NAME     : Load a Saved File
-OWNER    : Both
-PRIORITY : 2
-ESTIMATE : 4
-AS A     : user
-I WANT   : the ability to open previously saved Paint programs. A file dialog
-should appear, allowing me to choose the file to load. If the file is not in
-the correct format, provide an appropriate error message.
+TYPE     : USER STORY
+NAME     :
+OWNER    : Yesung
+PRIORITY :
+ESTIMATE :
+AS A     : 
+I WANT   :
 SO THAT  :
-IMPL DTL : Implementation details for the load feature:
-
-Read a file Paint Save File Format, being careful to parse
-each line using an appropriate regular expression/expressions.
-You can find the format of the save file in the
-Assignment3 project under Assignment3/paintSaveFileFormat.txt.
-
-The result of the execution of the load method should be an
-ArrayList<DrawingCommand> which can be rendered to the PaintPanel. Some
-Shapes will require careful parsing. For example, you will have to walk
-through a squiggle to properly parse it using Patterns and groups.
+IMPL DTL :
 --------------------------------------------------------------------------
 
-
+# COMPLETED USER STORIES/BUGS BELOW ###########################################
 # OMITTED USER STORIES/BUGS BELOW   ###########################################
---------------------------------------------------------------------------
-REASON: Decided to do the whole user story, made more sense
-TYPE     : USER STORY 3.7
-NAME     : Load Feature (Parsing for Squiggle)
-OWNER    : Yesung C.
-PRIORITY : High
-ESTIMATE : 3
-AS A     : user
-I WANT   : parse the squiggle
-SO THAT  : I can load the shape squiggle from text file
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 3.8
-NAME     : Load Feature (Parsing for Rectangle)
-OWNER    : Salman H.
-PRIORITY : High
-ESTIMATE : 3
-AS A     : user
-I WANT   : parse the rectangle
-SO THAT  : I can load the shape rectangle from text file
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 3.9
-NAME     : Save Feature (Parsing for Circle)
-OWNER    : Yesung C.
-PRIORITY : High
-ESTIMATE : 3
-AS A     : user
-I WANT   : parse the circle
-SO THAT  : I can save shape circle in text file format
-IMPL DTL :
---------------------------------------------------------------------------
