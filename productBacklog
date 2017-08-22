@@ -24,17 +24,6 @@ SO THAT  : I can go to specific social media websites
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 1.4
-NAME     : Animation
-OWNER    : Yesung
-PRIORITY : Medium
-ESTIMATE : 4
-AS A     : user
-I WANT   : to see un-hindering animation
-SO THAT  : that user can feel comfortable accessing my website
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
 TYPE     : USER STORY 1.6
 NAME     : Self Portrait
 OWNER    : Yesung
@@ -81,6 +70,17 @@ ESTIMATE : 1 hour
 AS A     : user
 I WANT   : read with better fonts.
 SO THAT  : I can feel comfortable and attracted to the website.
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.4
+NAME     : Animation
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 4
+AS A     : user
+I WANT   : to see un-hindering animation
+SO THAT  : that user can feel comfortable accessing my website
 IMPL DTL :
 --------------------------------------------------------------------------
 # OMITTED USER STORIES/BUGS BELOW   ###########################################
