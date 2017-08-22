@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans');
 
 body{
   background:#FFF;
   margin:15%;
   text-align: center;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Quattrocento Sans', sans-serif;
 }
 .title{
   font-size: 45px;
@@ -13,4 +13,9 @@ body{
 .buttons{
   width:50px;
   padding: 10px;
+}
+
+.list{
+  /*margin:100px;*/
+  padding:10px;
 }
