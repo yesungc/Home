@@ -9,29 +9,20 @@ body{
 
 .title{
   font-size: 45px;
+  font-style:normal;
+}
+
+.p{
+  font-size:23px;
   font-style: oblique;
+  margin-bottom: 20px;
 }
 
-/*SOCIAL MEDIA ICONS AND COLOURS*/
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
+/*SOCIAL MEDIA*/
+.fa{
+margin-right:40px;
 }
-
-.fa hover{
-  opacity: 0.7;
-}
-
-
-
-
-/*END OF SOCIAL MEDIA ICONS*/
+/*END OF SOCIAL MEDIA */
 
 
 .container-fluid{
