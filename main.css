@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+
 body{
   background:#FFF;
   margin:15%;
   text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
-
+.title{
+  font-size: 45px;
+  font-style: oblique;
+}
 .buttons{
-  width:150px;
+  width:50px;
   padding: 10px;
 }

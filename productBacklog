@@ -24,17 +24,6 @@ SO THAT  : I can go to specific social media websites
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 1.3
-NAME     : Google Fonts
-OWNER    : Yesung
-PRIORITY : Medium
-ESTIMATE : 1 hour
-AS A     : user
-I WANT   : read with better fonts.
-SO THAT  : I can feel comfortable and attracted to the website.
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
 TYPE     : USER STORY 1.4
 NAME     : Animation
 OWNER    : Yesung
@@ -82,5 +71,16 @@ I WANT   : to see the website in all device appropriate settings
 SO THAT  : I can see that everything is centered and working.
 IMPL DTL :
 Completed: v1.0 Tuesday August 22 2017
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.3
+NAME     : Google Fonts
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 1 hour
+AS A     : user
+I WANT   : read with better fonts.
+SO THAT  : I can feel comfortable and attracted to the website.
+IMPL DTL :
 --------------------------------------------------------------------------
 # OMITTED USER STORIES/BUGS BELOW   ###########################################
