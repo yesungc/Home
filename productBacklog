@@ -2,17 +2,6 @@
 # If a USER STORY is large, break it into smaller user stories.
 
 --------------------------------------------------------------------------
-TYPE     : USER STORY 1.1
-NAME     : Websites
-OWNER    : Yesung
-PRIORITY : High
-ESTIMATE : 4 hours
-AS A     : user
-I WANT   : access the website
-SO THAT  : I see the personal website.
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
 TYPE     : USER STORY 1.7
 NAME     : About Page
 OWNER    : Yesung
@@ -91,6 +80,17 @@ ESTIMATE : 4
 AS A     : user
 I WANT   : to see Yesung's beautiful photo
 SO THAT  : they understand who built this website
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.1
+NAME     : Websites
+OWNER    : Yesung
+PRIORITY : High
+ESTIMATE : 4 hours
+AS A     : user
+I WANT   : access the website
+SO THAT  : I see the personal website.
 IMPL DTL :
 --------------------------------------------------------------------------
 # OMITTED USER STORIES/BUGS BELOW   ###########################################
