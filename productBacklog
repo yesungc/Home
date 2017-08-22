@@ -41,11 +41,36 @@ OWNER    : Yesung
 PRIORITY : Medium
 ESTIMATE : 4
 AS A     : user
-I WANT   : a user interface that allows me to specify where to save the
-Paint, then saves all Paint commands to a file.
-SO THAT  :
+I WANT   : to see un-hindering animation
+SO THAT  : that user can feel comfortable accessing my website
 IMPL DTL :
 --------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.6
+NAME     : Self Portrait
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 4
+AS A     : user
+I WANT   : to see Yesung's beautiful photo
+SO THAT  : they understand who built this website
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.7
+NAME     : About Page
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 4
+AS A     : user
+I WANT   : to see an about page to better understand what Yesung has done.
+SO THAT  : they can contact for future partnership and job prospect.
+IMPL DTL :
+--------------------------------------------------------------------------
+
+
+# COMPLETED USER STORIES/BUGS BELOW ###########################################
+
 --------------------------------------------------------------------------
 TYPE     : USER STORY 1.5
 NAME     : Basic Center Page
@@ -56,7 +81,6 @@ AS A     : viewer
 I WANT   : to see the website in all device appropriate settings
 SO THAT  : I can see that everything is centered and working.
 IMPL DTL :
+Completed: v1.0 Tuesday August 22 2017
 --------------------------------------------------------------------------
-
-# COMPLETED USER STORIES/BUGS BELOW ###########################################
 # OMITTED USER STORIES/BUGS BELOW   ###########################################
