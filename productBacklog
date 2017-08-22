@@ -23,6 +23,17 @@ I WANT   : to see an about page to better understand what Yesung has done.
 SO THAT  : they can contact for future partnership and job prospect.
 IMPL DTL :
 --------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.8
+NAME     : 404
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 4
+AS A     : user
+I WANT   : to see the 404 page
+SO THAT  : people can be directed to the right places.
+IMPL DTL :
+--------------------------------------------------------------------------
 
 # COMPLETED USER STORIES/BUGS BELOW ###########################################
 
