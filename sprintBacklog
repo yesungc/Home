@@ -49,3 +49,14 @@ I WANT   : to be able to press buttons of social media
 SO THAT  : I can go to specific social media websites
 IMPL DTL :
 --------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.6
+NAME     : Self Portrait
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 4
+AS A     : user
+I WANT   : to see Yesung's beautiful photo
+SO THAT  : they understand who built this website
+IMPL DTL :
+--------------------------------------------------------------------------

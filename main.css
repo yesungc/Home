@@ -2,33 +2,36 @@
 
 body{
   background:#FFF;
-  margin:15%;
+  margin:10%;
   text-align: center;
   font-family: 'Quattrocento Sans', sans-serif;
 }
 
+/* FONT RELATED */
 .title{
-  font-size: 45px;
+  font-size: 50px;
   font-style:normal;
+  padding:10px;
+  color:grey;
 }
-
 .p{
-  font-size:23px;
+  font-size:22px;
   font-style: oblique;
-  margin-bottom: 20px;
+  padding-bottom: 25px;
+  color:grey;
 }
+/*END OF FONT RELATED*/
 
 /*SOCIAL MEDIA*/
 .fa{
-margin-right:40px;
+  margin-right:40px;
 }
 /*END OF SOCIAL MEDIA */
 
-
+/*ANIMATION*/
 .container-fluid{
   animation: fadeIn 0.5s ease-in
 }
-
 @keyframes fadeIn {
   0% {
   opacity: 0;
@@ -38,5 +41,13 @@ margin-right:40px;
   opacity: 1;
   transform:translateY(0);
 }
-
 }
+/*END OF ANIMATION*/
+
+/* SELF PORTRAIT*/
+.img-responsive {
+  max-width: 60%; /* or to whatever you want here */
+  max-height: 30%; /* or to whatever you want here */
+  border-radius:3%;
+}
+/*END OF SELFPORTRAIT*/

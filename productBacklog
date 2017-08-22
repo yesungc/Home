@@ -13,28 +13,6 @@ SO THAT  : I see the personal website.
 IMPL DTL :
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 1.2
-NAME     : Social Media Buttons
-OWNER    : Yesung
-PRIORITY : Medium
-ESTIMATE : 1 hour
-AS A     : user
-I WANT   : to be able to press buttons of social media
-SO THAT  : I can go to specific social media websites
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 1.6
-NAME     : Self Portrait
-OWNER    : Yesung
-PRIORITY : Medium
-ESTIMATE : 4
-AS A     : user
-I WANT   : to see Yesung's beautiful photo
-SO THAT  : they understand who built this website
-IMPL DTL :
---------------------------------------------------------------------------
---------------------------------------------------------------------------
 TYPE     : USER STORY 1.7
 NAME     : About Page
 OWNER    : Yesung
@@ -45,7 +23,6 @@ I WANT   : to see an about page to better understand what Yesung has done.
 SO THAT  : they can contact for future partnership and job prospect.
 IMPL DTL :
 --------------------------------------------------------------------------
-
 
 # COMPLETED USER STORIES/BUGS BELOW ###########################################
 
@@ -81,6 +58,28 @@ ESTIMATE : 4
 AS A     : user
 I WANT   : to see un-hindering animation
 SO THAT  : that user can feel comfortable accessing my website
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.2
+NAME     : Social Media Buttons
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 1 hour
+AS A     : user
+I WANT   : to be able to press buttons of social media
+SO THAT  : I can go to specific social media websites
+IMPL DTL :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.6
+NAME     : Self Portrait
+OWNER    : Yesung
+PRIORITY : Medium
+ESTIMATE : 4
+AS A     : user
+I WANT   : to see Yesung's beautiful photo
+SO THAT  : they understand who built this website
 IMPL DTL :
 --------------------------------------------------------------------------
 # OMITTED USER STORIES/BUGS BELOW   ###########################################
